@@ -63,3 +63,8 @@ end
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# Build simple_forms with bootstrap classes
+gem 'simple_form'
+
+gem 'faker'
